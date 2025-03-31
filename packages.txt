@@ -1,0 +1,12 @@
+# System packages needed on Debian/Ubuntu-based systems
+
+# For running Python 3 scripts and pip
+python3
+python3-pip
+
+# For file conversion (provides the 'ebook-convert' command)
+calibre
+
+# Note: Ollama installation is typically done via their official script,
+# not usually available as a standard package in default repositories.
+# See https://ollama.com/ for installation instructions.
